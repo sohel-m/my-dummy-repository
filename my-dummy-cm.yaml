@@ -4,4 +4,4 @@ metadata:
   name: example-config
   namespace: argocd
 data:
-  first: "12"
+  first: "123"
